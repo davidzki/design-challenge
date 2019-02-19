@@ -1,3 +1,5 @@
+Challenge your design abilities!
+
 Demo: https://davidzki.github.io/design-challenge/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
