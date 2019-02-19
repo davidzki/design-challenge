@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/davidzki/design-challenge.git/precache-manifest.c7f54565eae4da6a2cc08289b52f71b0.js"
+  "/davidzki/design-challenge/precache-manifest.28c9658a10b38fd77bd7a606e0402054.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/davidzki/design-challenge.git/index.html", {
+workbox.routing.registerNavigationRoute("/davidzki/design-challenge/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
