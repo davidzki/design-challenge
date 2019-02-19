@@ -1,13 +1,13 @@
 {
-  "main.css": "/davidzki/design-challenge/static/css/main.684e9245.chunk.css",
-  "main.js": "/davidzki/design-challenge/static/js/main.a01fcdbf.chunk.js",
-  "main.js.map": "/davidzki/design-challenge/static/js/main.a01fcdbf.chunk.js.map",
-  "runtime~main.js": "/davidzki/design-challenge/static/js/runtime~main.8b988ff3.js",
-  "runtime~main.js.map": "/davidzki/design-challenge/static/js/runtime~main.8b988ff3.js.map",
-  "static/js/2.9bd6be4b.chunk.js": "/davidzki/design-challenge/static/js/2.9bd6be4b.chunk.js",
-  "static/js/2.9bd6be4b.chunk.js.map": "/davidzki/design-challenge/static/js/2.9bd6be4b.chunk.js.map",
-  "index.html": "/davidzki/design-challenge/index.html",
-  "precache-manifest.28c9658a10b38fd77bd7a606e0402054.js": "/davidzki/design-challenge/precache-manifest.28c9658a10b38fd77bd7a606e0402054.js",
-  "service-worker.js": "/davidzki/design-challenge/service-worker.js",
-  "static/css/main.684e9245.chunk.css.map": "/davidzki/design-challenge/static/css/main.684e9245.chunk.css.map"
+  "main.css": "/design-challenge/static/css/main.684e9245.chunk.css",
+  "main.js": "/design-challenge/static/js/main.b981570f.chunk.js",
+  "main.js.map": "/design-challenge/static/js/main.b981570f.chunk.js.map",
+  "runtime~main.js": "/design-challenge/static/js/runtime~main.638e6a2d.js",
+  "runtime~main.js.map": "/design-challenge/static/js/runtime~main.638e6a2d.js.map",
+  "static/js/2.9bd6be4b.chunk.js": "/design-challenge/static/js/2.9bd6be4b.chunk.js",
+  "static/js/2.9bd6be4b.chunk.js.map": "/design-challenge/static/js/2.9bd6be4b.chunk.js.map",
+  "index.html": "/design-challenge/index.html",
+  "precache-manifest.48195087fa14b6c01b60692316674190.js": "/design-challenge/precache-manifest.48195087fa14b6c01b60692316674190.js",
+  "service-worker.js": "/design-challenge/service-worker.js",
+  "static/css/main.684e9245.chunk.css.map": "/design-challenge/static/css/main.684e9245.chunk.css.map"
 }
